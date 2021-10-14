@@ -1,0 +1,30 @@
+body {
+  background-color: maroon;
+}
+
+h1{
+  color: yellow;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+  width: 100%;
+}
+
+p, li {
+  font-family: arial, helvetica, sans-serif;
+}
+
+.header {
+  background-color: black;
+  padding-left: 10px;
+  border: 1px solid black;
+}
+
+.footer {
+  background: grey;
+  color: white
+    border: 1px solid black;
+  padding-left: 10px;
+}
